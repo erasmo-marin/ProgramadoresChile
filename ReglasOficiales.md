@@ -2,13 +2,13 @@
 
 **Normas de Convivencia**
 ----------
-**1.1** Quedan estrictamente prohibido los adjetivos descalificativos entre los usuarios o hacia los administradores de la comunidad.
+**1.1** Quedan estrictamente prohibido los adjetivos descalificativos entre los usuarios, hacia los administradores de la comunidad y hacia las empresas que patrocinan la comunidad sin ser clientes de dicho servicio.
 
 **Procedimiento** 
 
->De ser un Comentario, se procederá a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
+>De ser un Comentario, se procederá a dejarlo al tanto de su falta, si persiste en su comportamiento se procede a eliminar dicho comentario. De persistir el usuario después de ello, se procederá a bloquearlo de la comunidad.
 
->De ser una Publicación, se procederá directamente a bloquear de la comunidad.
+>De ser una Publicación, se procederá directamente a eliminar al miembro y su publicacion.
 
 >De ser un mensaje por Inbox, se le advertirá de la existencia de las presentes normas. De continuar con la actitud, se procederá directamente a bloquear de la comunidad.
 
@@ -38,7 +38,7 @@
 
 **3.2** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una Fanpage de Facebook con el fin de conseguir más Likes y no aportar a la Comunidad.
 
-**3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta que no este realcionada con Comunidades.io.
+**3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta o tener más usuarios que no este patrocinada por comunidades.io.
 
 **Procedimiento**  
 
