@@ -14,7 +14,7 @@ In English :
 >**Company Name**:                                                                                                      
 >**Required Profile**:                                                                                                          
 >**Location**:                                                                                                                 
->**Schedule**:                                                                                                                  
+>**Hour Hand**:                                                                                                                  
 >**Benefits**:                                                                                                                
 >**Type of Contract**: ( Fulltime - Partime - Freelance )                                                                       
 >**Approximate remuneration**: ( Min - Max - Aprox )                                                                             
