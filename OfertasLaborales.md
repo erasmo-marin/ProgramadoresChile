@@ -1,4 +1,5 @@
-# Pauta para Publicar Ofertas Laborales ES/EN
+# Pauta para Publicar Ofertas Laborales /es
+# Guideline for Post Job Opportunities /en 
 
 En Español : 
 >**Nombre de la Empresa**:                                                                                                      
