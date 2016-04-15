@@ -18,4 +18,4 @@ In English :
 >**Benefits**:                                                                                                                
 >**Type of Contract**: ( Fulltime - Partime - Freelance )                                                                       
 >**Approximate remuneration**: ( Min - Max - Aprox )                                                                             
->**e-mail**: ( to attach cv )          
+>**E-mail**: ( to attach cv )          
