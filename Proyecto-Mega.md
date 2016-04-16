@@ -12,7 +12,9 @@ archivos exclusiva de miembros de la comunidad.
 El primer requisito es ser miembro de la comunidad Programadores Chile
 https://www.facebook.com/groups/Programadores.Chile/
 
-Luego se recompensa con acceso a :                                                                                                     
+Luego se recompensa con acceso a :      
+
+
 **1.**Staff de la Comunidad.                                                                                                     
 **2.**Personas Activas que participen en la Comunidad.                                                                            
 **3.**Personas que deseen realizar un Curso para la Comunidad.                                                                     
